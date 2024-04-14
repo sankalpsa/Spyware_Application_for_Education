@@ -1,5 +1,3 @@
-# Spyware_Application_for_Education
-This is a spyware application for educational purpose
 Spyware with python :
 
 Requirements:
@@ -7,3 +5,5 @@ Requirements:
 - modules such as : "pynput"
 - basic knowledge of python
 
+
+The written code easy to understand , it just for Educational purpose 
